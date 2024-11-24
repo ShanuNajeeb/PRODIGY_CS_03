@@ -16,13 +16,13 @@ A simple GUI-based application to evaluate password strength based on length, up
 
 1. **Clone the Repository**:  
    ```bash  
-   git clone https://github.com/Shanunajeeb/PRODIGY_CS_03.git  
+   git clone https://github.com/ShanuNajeeb/PRODIGY_CS_03.git  
    cd PRODIGY_CS_03  
    ```  
 
 2. **Run the Application**:  
    ```bash  
-   python password_checker.py  
+   TASK 3.py  
    ```  
 
 ## Usage  
