@@ -1,5 +1,4 @@
-# PRODIGY_CS_03  
-**Password Complexity Checker Tool**  
+#  Password Complexity Checker Tool 
 
 A simple GUI-based application to evaluate password strength based on length, uppercase/lowercase letters, numbers, and special characters. Helps users create secure passwords with clear feedback.  
 
